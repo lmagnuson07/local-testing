@@ -1,3 +1,5 @@
+Working on this new theme while we prepare the release branch. 
+
 == Enwoo ==
 Contributors: envothemes
 Tags: one-column, two-columns, full-width-template, right-sidebar, custom-background, custom-menu, custom-header, editor-style, featured-images, translation-ready, custom-logo, threaded-comments, footer-widgets, rtl-language-support, blog, e-commerce
